@@ -35,6 +35,11 @@ footer .logo{
 
 figure{
     display: flex;
-    flex-wrap: nowrap;
     justify-content: center;
+    align-items: center;
+}
+
+figure .image{
+    display: block;
+    margin: 10px auto;
 }
