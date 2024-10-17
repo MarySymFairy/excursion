@@ -24,7 +24,7 @@ p{
     font-size: 1.3125rem;
 }
 
-#main-cotent .download-link{
+#main-content .download-link{
     color: aquamarine;
     font-size: 1rem;
 }
@@ -34,5 +34,7 @@ footer .logo{
 }
 
 figure{
-    display: block;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
