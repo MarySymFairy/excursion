@@ -1,0 +1,38 @@
+html{
+    background-color: black;
+    font-family: verdana;
+}
+
+#main-content{
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 3.125rem;
+    color: white;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+}
+
+p{
+    color: grey;
+    font-size: 1.3125rem;
+}
+
+#main-cotent .download-link{
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+footer .logo{
+    text-align: right;
+}
+
+figure{
+    display: block;
+}
